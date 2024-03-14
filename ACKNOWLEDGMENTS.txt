@@ -1,0 +1,19 @@
+Assets from Unsplash are covered under the Unsplash License: https://unsplash.com/license
+
+Image-- crowd:
+https://unsplash.com/photos/group-of-women-standing-on-rock-fragment-T6zu4jFhVwg
+
+Images-- homepageBackground
+https://unsplash.com/@martz90
+
+Image-- getStarted
+https://www.uistore.design/items/mobile-onboarding-screens-freebie/
+
+Reference-- general reference, CountButton.swift, and StepperView.swift
+https://developer.apple.com/documentation/swiftui/fruta_building_a_feature-rich_app_with_swiftui
+
+Reference-- general reference and WelcomeSheetView
+https://github.com/hugoqnc/Split
+
+Reference-- FaceDetection.swift
+https://www.youtube.com/watch?v=qzqAvgR4d2c
